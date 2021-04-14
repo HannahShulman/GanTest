@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GanTest</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="occupation_title">Occupation:</string>
+    <string name="status_title">Status:</string>
+    <string name="nickname_title">Nickname:</string>
+    <string name="season_appearance_title">Season Appearance:</string>
+</resources>
